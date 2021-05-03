@@ -1,7 +1,7 @@
 # state_ids can be found using curl -X GET "https://cdn-api.co-vin.in/api/v2/admin/location/states" -H  "accept: application/json" -H  "Accept-Language: hi_IN"
 # Or open https://cdn-api.co-vin.in/api/v2/admin/location/states in browser
 # district_ids can be found using curl -X GET "https://cdn-api.co-vin.in/api/v2/admin/location/districts/12" -H  "accept: application/json" -H  "Accept-Language: hi_IN"
-# or open https://cdn-api.co-vin.in/api/v2/admin/location/districts/12 in browser, replace 12 with your state_id.
+# or open https://cdn-api.co-vin.in/api/v2/admin/location/districts/32 in browser, replace 12 with your state_id.
 
 # Online Python3 Compiler : https://www.programiz.com/python-programming/online-compiler/
 
